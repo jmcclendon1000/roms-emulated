@@ -1,2 +1,3 @@
 Mega Man -- The Power Battle: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/8d29e44932cb6c2f6629cae4549372033845e62b/Arcade/megaman.zip
 Mega Man 2 -- The Power Fighters: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/edbf2f6147c489c6cad75a34259315fb98d47db1/Arcade/megaman2.zip
+Marvel VS Capcom -- Clash Of Super Heroes: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/e0e0419dfdf883bad4d5545e32c412582bf3a572/Arcade/mvsc.zip
