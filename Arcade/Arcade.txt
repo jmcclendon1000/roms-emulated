@@ -1,1 +1,2 @@
-Mega Man: The Power Battle: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/8d29e44932cb6c2f6629cae4549372033845e62b/Arcade/megaman.zip
+Mega Man -- The Power Battle: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/8d29e44932cb6c2f6629cae4549372033845e62b/Arcade/megaman.zip
+Mega Man 2 -- The Power Fighters: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/edbf2f6147c489c6cad75a34259315fb98d47db1/Arcade/megaman2.zip
