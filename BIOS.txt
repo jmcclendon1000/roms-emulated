@@ -1,1 +1,1 @@
-Neo Geo: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/2dcee021d35c195ac5e2092a7d262c90cdcea915/Arcade/Neo%20Geo/neogeo.zip
+Neo Geo: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/01dc0ac7922c900672ab7836c0644f171d2d6dd6/Arcade/Neo%20Geo/neogeo.zip
