@@ -1,1 +1,2 @@
 Neo Geo: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/01dc0ac7922c900672ab7836c0644f171d2d6dd6/Arcade/Neo%20Geo/neogeo.zip
+Game Boy Advance: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/4dbe071db280f4448fa02cc10ec0996ae2c4018a/GBA/gba_bios.bin
