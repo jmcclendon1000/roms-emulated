@@ -1,2 +1,3 @@
 Metal Slug: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/8c2cdb6804ec22c7883a8c0199722ed508472eb6/Arcade/Neo%20Geo/mslug.zip
 Metal Slug X: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/3a749965cca23dab1177ab1a90218a75931d11ce/Arcade/Neo%20Geo/mslugx.zip
+Metal Slug 3: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/4dbe071db280f4448fa02cc10ec0996ae2c4018a/Arcade/Neo%20Geo/mslug3.zip
