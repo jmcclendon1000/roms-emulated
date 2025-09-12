@@ -1,3 +1,7 @@
 Teenage Mutant Ninja Turtles -- The Hyperstone Heist: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/8e58c2dbe6bb6a2405df073c8826e790a662146f/Sega%20Genesis/Teenage%20Mutant%20Ninja%20Turtles%20-%20The%20Hyperstone%20Heist%20(USA).md
 Mega Man -- The Wily Wars: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/8e58c2dbe6bb6a2405df073c8826e790a662146f/Sega%20Genesis/Mega%20Man%20-%20The%20Wily%20Wars%20(USA)%20(Genesis%20Mini).md
 Sonic Spinball: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/8e58c2dbe6bb6a2405df073c8826e790a662146f/Sega%20Genesis/Sonic%20Spinball%20(USA).md
+Gunstar Heroes: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/823ebaeac80ae4897046d891bd78bbb03f9459af/Sega%20Genesis/Gunstar%20Heroes%20(USA).md
+Dynamite Headdy: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/823ebaeac80ae4897046d891bd78bbb03f9459af/Sega%20Genesis/Dynamite%20Headdy%20(USA,%20Europe).md
+Comix Zone: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/823ebaeac80ae4897046d891bd78bbb03f9459af/Sega%20Genesis/Comix%20Zone%20(USA).md
+Sonic Classic Heroes: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/823ebaeac80ae4897046d891bd78bbb03f9459af/Sega%20Genesis/scheroes.bin
