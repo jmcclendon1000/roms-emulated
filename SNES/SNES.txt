@@ -1,2 +1,3 @@
 New Super Mario Land (v1.5): https://rawcdn.githack.com/jmcclendon1000/roms-emulated/c7c193af120604e064cb82f5e4855cdbfb02d125/SNES/New%20Super%20Mario%20Land%20(World)%20(v.1.5).sfc
 Super Mario World Co-op Hack: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/c7c193af120604e064cb82f5e4855cdbfb02d125/SNES/Super%20Mario%20World%20Co-op%20Hack.sfc
+Super Punch Out: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/fe629dcf8b9487bfcc5451d7f0135a9201425198/SNES/Super%20Punch-Out!!%20(USA).sfc
