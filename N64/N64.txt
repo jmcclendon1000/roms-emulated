@@ -2,3 +2,4 @@ Donkey Kong 64: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/4aaa3a39
 Super Mario 64: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/f6e09961d2cfd8985d970fffce068c7a035c8905/N64/Super%20Mario%2064%20(USA).z64
 SM64 Multiplayer Splitscreen: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/6853751f634d0b707264febefdb5d18bd098a207/N64/SM64%20Multiplayer%20Splitscreen.z64
 Smash Remix v2: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/4c549e1002735434ef9f00ca53ff67561b69a8bd/N64/Smash_Remix_2.0.0.z64
+Mario Kart 64 Amped Up: https://rawcdn.githack.com/jmcclendon1000/roms-emulated/433386966506d51577ec9d9a0f2b93d2bbb8441e/N64/Mario%20Kart%2064%20Amped%20Up%20(v3.04).z64
